@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Penting !!
+
+Pelajari Dokumentasi
+- https://laravel.com/docs/7.x/installation
+- https://github.com/jeroennoten/Laravel-AdminLTE/wiki
+- https://spatie.be/docs/laravel-permission/v3/installation-laravel
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
