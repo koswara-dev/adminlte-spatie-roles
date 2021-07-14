@@ -25,7 +25,7 @@ Auth::routes();
 
 Route::get('/home', function() {
     return view('home');
-})->name('home');
+})->name('home')->middleware('auth');
 
 Route::get('/kategori', function() {
     return view('kategori');
